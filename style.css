@@ -273,6 +273,9 @@ body {
   .contactSection {
     padding: 6rem 2rem;
   }
+  .navbar {
+    padding: 1.3rem 3rem;
+  }
 }
 
 @media screen and (max-width: 1150px) {
